@@ -1,0 +1,21 @@
+
+
+ext{
+    arcgisVersion = '100.1.0'
+    loggerVersion = '2.2.0'
+    //ArcGis
+    fastJsonVersion= '1.1.72.android'
+    aMapLoadtionVersion = '6.1.0'
+    utilcodeVersion = '1.31.0'
+
+
+    retrofitVersion              = "2.9.0"
+    convertVersion               = "2.1.0"
+    adapter_rxjava2              = "2.5.0"
+
+    rxjava2_rxandroid             = "2.0.1"
+    rxjava2_rxjava_version        = "2.1.1"
+
+    logging_interceptor_version   = "3.14.0"
+
+}
